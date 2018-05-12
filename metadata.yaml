@@ -1,0 +1,44 @@
+_repo: The-Seventh-Order_32327
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Emshwiller, Ed
+    aliases:
+    - Willer
+    - Alexander, Ed
+    - Emsh, Ed
+    - Emshwiller, Edmund A.
+    - Emsh
+    birthdate: 1925
+    deathdate: 1990
+    gutenberg_agent_id: '25412'
+    url: http://www.gutenberg.org/2009/agents/25412
+    wikipedia: http://en.wikipedia.org/wiki/Ed_Emshwiller
+covers:
+- cover_type: archival
+  image_path: 32327-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Sohl, Jerry
+    alias: Sohl, Gerald Allan
+    birthdate: 1913
+    deathdate: 2002
+    gutenberg_agent_id: '35175'
+    url: http://www.gutenberg.org/2009/agents/35175
+    wikipedia: http://en.wikipedia.org/wiki/Jerry_Sohl
+description: ''
+gutenberg_issued: '2010-05-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Robots -- Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: The Seventh Order
+url: http://www.gutenberg.org/ebooks/32327
